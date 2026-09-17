@@ -1,4 +1,4 @@
-# MedForecast — Phase 1 Prototype
+SHOCKMAP AI — Phase 1 Prototype
 
 > **SHOCKMAP AI | Phase 1: Healthcare Resource & Coordination Prototype**
 
